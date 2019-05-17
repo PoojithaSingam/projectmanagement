@@ -43,7 +43,7 @@ Project charter will gives a detailed understanding about the Project, Team, Goa
 Resources and Matrix. <br>
 
 ## Link to the stakeholder registry:
-
+https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 <br>
 
 ##stackholder Registry:
