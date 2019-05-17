@@ -1,7 +1,12 @@
 ## Project Title: PMQUIZZEZ 
 
 ### Project Description: 
-     PMQuizzez is a live quiz website for students to master the concepts of Project Management. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.
+     PMQuizzez is a live quiz website for students to master the concepts of Project Management. 
+     In this project we help students to learn the input tools & techniques and 
+     output of each processes also covers the 10 Knowledge Areas. 
+
+### Repository Link:
+https://github.com/PoojithaSingam/projectmanagement
      
 ### Team name: Team Think Bots
 
@@ -11,7 +16,9 @@
 - Koteswara Harshith Gudapati
 - Poojitha Singam
 
-### Client: Poojitha Singam
+### Client: 
+Poojitha Singam
+Email - S533988@nwmissouri.edu
 
 ### Team logo:
 ![](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
