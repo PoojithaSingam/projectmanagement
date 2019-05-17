@@ -31,7 +31,7 @@ https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 
 ## About Team Work:
 We have planned to create a group fro this project in the Skype and email for the primary communication.
-In case of emergency we planned to use mobile contact for the cmmunication.<br>
+In case of emergency we planned to use mobile contact for the cmmunication.
 
 ##Roles
 Team Lead: Mouni Krishna Atluri <br>
