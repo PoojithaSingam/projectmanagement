@@ -27,8 +27,9 @@ Email - S533988@nwmissouri.edu
 
 <br>
 ### Link to the Project Charter Page:
-
+https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 <br>
+
 ## About Team Work:
 We have planned to create a group fro this project in the Skype and email for the primary communication.
 In case of emergency we planned to use mobile contact for the cmmunication.<br>
@@ -43,7 +44,7 @@ Project charter will gives a detailed understanding about the Project, Team, Goa
 Resources and Matrix. <br>
 
 ## Link to the stakeholder registry:
-https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
+
 <br>
 
 ##stackholder Registry:
