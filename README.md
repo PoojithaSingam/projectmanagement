@@ -13,7 +13,7 @@
 ### Client: Poojitha Singam
 
 ### Team logo:
-![alt text](http://url/to/poo.png)
+![alt text](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
 
 
 ### Signature:
