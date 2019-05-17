@@ -25,7 +25,6 @@ Email - S533988@nwmissouri.edu
 ### Team logo:
 ![](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
 
-<br>
 ### Link to the Project Charter Page:
 https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 <br>
