@@ -46,7 +46,6 @@ Resources and Matrix.
 ## Link to the stakeholder registry:
 
 
-
 ##stackholder Registry:
 The Stackholder Registry is a project management which gives an information project's stackholders and 
 also defines the programs and the areas of intrests of the peoples involved in the project. 
