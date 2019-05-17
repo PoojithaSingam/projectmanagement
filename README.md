@@ -1,22 +1,22 @@
-# Project Title: PMQuizzez 
+## Project Title: PMQuizzez 
 
-## Project Description: 
+### Project Description: 
      PMQuizzez is a live quiz website for students to master the concepts of Project Management. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.
      
-###Team name: Team Think Bots
+### Team name: Team Think Bots
 
-###Team member names:
+### Team member names:
 •	Mouni Krishna Atluri
 •	Koteswara Harshith Gudapati
 •	Poojitha Singam
 
-###Client: Poojitha Singam
+### Client: Poojitha Singam
 
-###Team logo:
+### Team logo:
 
 
 
-###Signature:
+### Signature:
 
 Poojitha Singam
 
