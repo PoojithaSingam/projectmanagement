@@ -23,6 +23,18 @@ Email - S533988@nwmissouri.edu
 ### Team logo:
 ![](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
 
+### Link to the Project Charter Page:
+
+## About Team Work:
+We have planned to create a group fro this project in the Skype and email for the primary communication.
+In case of emergency we planned to use mobile contact for the cmmunication.
+
+##Roles
+Team Lead: Mouni Krishna Atluri <br>
+Team Member: Harshith Gudapati <br>
+Technology support: Mouni Krishna Atluri and Harshith Gudapati<br>
+
+## Project Charter:
 
 ### Signature:
 
