@@ -15,19 +15,23 @@ https://github.com/PoojithaSingam/projectmanagement
 - Mouni Krishna Atluri
 - Koteswara Harshith Gudapati
 - Poojitha Singam
+<br>
 
 ### Client: 
 Poojitha Singam
 Email - S533988@nwmissouri.edu
+<br>
 
 ### Team logo:
 ![](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
 
+<br>
 ### Link to the Project Charter Page:
 
+<br>
 ## About Team Work:
 We have planned to create a group fro this project in the Skype and email for the primary communication.
-In case of emergency we planned to use mobile contact for the cmmunication.
+In case of emergency we planned to use mobile contact for the cmmunication.<br>
 
 ##Roles
 Team Lead: Mouni Krishna Atluri <br>
@@ -35,7 +39,16 @@ Team Member: Harshith Gudapati <br>
 Technology support: Mouni Krishna Atluri and Harshith Gudapati<br>
 
 ## Project Charter:
+Project charter will gives a detailed understanding about the Project, Team, Goals,
+Resources and Matrix. <br>
 
+## Link to the stakeholder registry:
+
+<br>
+
+##stackholder Registry:
+
+<br>
 ### Signature:
 
 - Poojitha Singam
