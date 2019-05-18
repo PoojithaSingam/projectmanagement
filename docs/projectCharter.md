@@ -14,23 +14,21 @@
         </a>
 </nav>
 </div>
-<br />
-<br />
 <div class="container">
-<h2>Project Information:</h2><hr />
+<h3>Project Description:</h3><hr />
 <p>PMQuizzez is a live quiz website for students to master the concepts of Project Management. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.</p>
 <br>
+<h3>Project Start Date:<h4>5/13/2019</h4></h3>
+<h3>Project End Date:<h4>6/1/2019</h4></h3>
+
+<h3>Budget for this project</h3><hr />
+<p>Free of Cost</p>
 <h2>Project Team</h2><hr />
  <li>Mouni Krishna Atluri</li>
  <li>Koteswara Harshith Gudapati</li>
  <li>Poojitha Singam</li>
- 
 <br>
-<h2>Stories by Role</h2><hr />
-<p>
-</p>
-<br>
-<h2>Stake Holder Registry</h2>
+<h3>Stake Holder Registry</h3>
 <br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
@@ -89,8 +87,6 @@
 <li>Phase 4 finalized and published at the end of week.</li>
 <li>Project reflections and discussions during week.</li>
 <br>
-<h3>Budget</h3><hr />
-<p>Free of Cost</p>
 </div>
 </body>
 </html>
