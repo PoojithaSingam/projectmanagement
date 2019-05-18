@@ -42,3 +42,40 @@
 	<th>Contact Info</th>
   </tr>
   <tr>
+  <td>Dr.Denise Case</td>
+    <td>Mentor</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>External</td> 
+	 <td>Provide review comments and suggest improvements</td>
+	  <td>Northwest Missouri State University</td> 
+  </tr>
+  <tr>
+    <td>Poojitha Singam</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>	 
+	 <td>Internal</td> 
+	 <td>Develop ,test and validate code</td>
+	  <td>poojithasingam@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Mouni Krishna Atluri</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>mounikrishnaa@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Harshith Gudpati</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>S534886@nwmissouri.edu</td> 
+  </tr>
+
+</table>
