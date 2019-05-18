@@ -28,9 +28,8 @@ Dr. Denise Case(mentor)
 https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 <br>
 
-## About Team Work:
-We have planned to create a group fro this project in the Skype and email for the primary communication.
-In case of emergency we planned to use mobile contact for the cmmunication.
+## Working together as a team:	
+We are looking forward to work as a team. Together as a team we shall motivate each other constantly to do better. As a team shall keep a track of all the activities. If any of the team member has any difficulty to cope up with any task, the other team members will help them. We shall overcome each other’s weaknesses and help the team to grow.
 
 ##Roles
 
