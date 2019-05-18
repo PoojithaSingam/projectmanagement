@@ -27,3 +27,15 @@
  
 <br>
 <h2>Stories by Role</h2><hr />
+<br>
+<h2>Stake Holder Registry</h2><br>
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+    <th>Name of the StakeHolder</th>
+    <th>Role in the project</th> 
+    <th>Department</th>
+	<th>Type of StakeHolder</th>
+	<th>Expectations</th>
+	<th>Contact Info</th>
+  </tr>
+  <tr>
