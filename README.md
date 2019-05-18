@@ -39,8 +39,8 @@ If there is a non-participating member in the project, we will try to enquire ab
 
 #### Signature:
 
- . Poojitha Singam
- . Mouni Krishna Atluri
- . Harshith Gudapati
+ - Poojitha Singam
+ - Mouni Krishna Atluri
+ - Harshith Gudapati
 
             
