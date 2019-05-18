@@ -79,3 +79,18 @@
   </tr>
 
 </table>
+<br>
+ <h3>Schedule:</h3>
+ <hr />
+ <p>The following scheduled will be implemented.</p>
+<li>Phase 1 completed and presented at the end of week.</li>
+<li>Phase 2 completed and presented at the end of week.</li>
+<li>Phase 3 completed and presented at the end of week.</li>
+<li>Phase 4 finalized and published at the end of week.</li>
+<li>Project reflections and discussions during week.</li>
+<br>
+<h3>Budget</h3><hr />
+<p>Free of Cost</p>
+</div>
+</body>
+</html>
