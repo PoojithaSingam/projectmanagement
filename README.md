@@ -18,8 +18,7 @@ https://github.com/PoojithaSingam/projectmanagement
 <br>
 
 ### Client: 
-Poojitha Singam
-Email - S533988@nwmissouri.edu
+Dr. Denise Case(mentor)
 <br>
 
 ### Team logo:
@@ -28,14 +27,12 @@ Email - S533988@nwmissouri.edu
 ### Link to the Project Charter Page:
 https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 <br>
+## Working together as a team:	
+We are looking forward to work as a team. Together as a team we shall motivate each other constantly to do better. As a team shall keep a track of all the activities. If any of the team member has any difficulty to cope up with any task, the other team members will help them. We shall overcome each other’s weaknesses and help the team to grow.
 
-## About Team Work:
-We have planned to create a group fro this project in the Skype and email for the primary communication.
-In case of emergency we planned to use mobile contact for the cmmunication.
+## Roles
 
-##Roles
-
-- Team Lead: Mouni Krishna Atluri
+- Team Lead: Poojitha Singam
 - Team Member: Harshith Gudapati 
 - Technology support: Mouni Krishna Atluri and Harshith Gudapati
 
@@ -46,7 +43,7 @@ Resources and Matrix.
 ## Link to the stakeholder registry:
 
 
-##stackholder Registry:
+## stackholder Registry:
 The Stackholder Registry is a project management which gives an information project's stackholders and 
 also defines the programs and the areas of intrests of the peoples involved in the project. 
 
