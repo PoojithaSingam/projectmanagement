@@ -13,3 +13,17 @@
             Project Charter: Online Food Delivering App
         </a>
 </nav>
+</div>
+<br />
+<br />
+<div class="container">
+<h2>Project Information:</h2><hr />
+<p>PMQuizzez is a live quiz website for students to master the concepts of Project Management. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.</p>
+<br>
+<h2>Project Team</h2><hr />
+ <li>Mouni Krishna Atluri</li>
+ <li>Koteswara Harshith Gudapati</li>
+ <li>Poojitha Singam</li>
+ 
+<br>
+<h2>Stories by Role</h2><hr />
