@@ -18,8 +18,7 @@ https://github.com/PoojithaSingam/projectmanagement
 <br>
 
 ### Client: 
-Poojitha Singam
-Email - S533988@nwmissouri.edu
+Dr. Denise Case(mentor)
 <br>
 
 ### Team logo:
