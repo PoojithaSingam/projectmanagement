@@ -32,7 +32,7 @@ We are looking forward to work as a team. Together as a team we shall motivate e
 
 ## Roles
 
-- Team Lead: Mouni Krishna Atluri
+- Team Lead: Poojitha Singam
 - Team Member: Harshith Gudapati 
 - Technology support: Mouni Krishna Atluri and Harshith Gudapati
 
