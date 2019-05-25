@@ -42,8 +42,8 @@
 	  <td>mounikrishnaa@gmail.com</td> 
   </tr>
   <tr>
-    <td>Harshith Gudapati</td>
-    <td>UI Developer</td> 
+    <td>UI Developer</td>
+    <td>Koteswara Harshith Gudapati</td> 
     <td>Designing user friendly website and maintaining standards while designing</td>
 	  <td>jinnu95@gmail.com</td> 
   </tr>
