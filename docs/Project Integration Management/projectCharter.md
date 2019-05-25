@@ -7,82 +7,51 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
 <body>
+<h2>Project Charter</h2>
 <div class="container">
-<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
-        <a class="navbar-brand js-scroll-trigger" href="#">           
-            Project Charter: PMQuizzez Application
-        </a>
-</nav>
-</div>
-<div class="container">
-<h3>Project Description:</h3><hr />
-<p>PMQuizzez is a live quiz website for students to master the concepts of Project Management. In this project we help students to learn the input tools & techniques and output of each processes also covers the 10 Knowledge Areas.</p>
-
-<h3>Budget for this project</h3><hr />
-<p>Free of Cost</p>
-<h3>Project Team</h3><hr />
- <li>Mouni Krishna Atluri</li>
- <li>Koteswara Harshith Gudapati</li>
- <li>Poojitha Singam</li>
- 
-<h3>Stake Holder Registry</h3>
+<h4><p><b>Project Title: </b>PMQuizzez
+<h4>Project Start Date:</h4>05/13/2019
+<h4>Project End Date:</h4> 01/24/2020</p>
+<h3>Budget Information</h3><hr />
+<p>Intially the allocated budget is $1,00,000 for this project.If required an additional of $100,000 will be granted</p>
+<h3>Project Manager</h3><hr />
+   Mouni Krishna Atluri, (660) 528-0886, mounikrishnaa@gmail.com
+ <h3>Project Objective</h3>
+ <p>The main objective of this project is to create a interactive website for the students taking Project Management course help study the 10 Knowedge Area and also processes.</p>
+ <h3>Project Success Criteria</h3>
+ <p>The product must be delivered to client without any delay. The Product must meet all the functionalities and it must be of user-friendly.</p>
+<h3>Roles and Responsibilities</h3>
 <br>
-<table style="width:100%;border: 1px solid black;">
+<table>
   <tr>
-    <th>Name of the StakeHolder</th>
-    <th>Role in the project</th> 
-    <th>Department</th>
-	<th>Type of StakeHolder</th>
-	<th>Expectations</th>
-	<th>Contact Info</th>
-  </tr>
+    <th>Role</th>
+    <th>Name</th> 
+    <th>Responsibilities</th>
+	<th>Contact Information</th>
+	  </tr>
   <tr>
-  <td>Dr.Denise Case</td>
-    <td>Mentor</td> 
-    <td>
-	Applied Computer Science</td>
-	 <td>External</td> 
-	 <td>Provide review comments and suggest improvements</td>
-	  <td>Northwest Missouri State University</td> 
-  </tr>
+  <td>Project Manager</td>
+    <td>Poojitha Singam</td> 
+    <td>Planning, scheduling, coordinating,building and maintaining teams</td>
+	 <td>poojithasingam@gmail.com</td> 
+	   </tr>
   <tr>
-    <td>Poojitha Singam</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>	 
-	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
-	  <td>poojithasingam@gmail.com</td> 
-  </tr>
-  <tr>
-    <td>Mouni Krishna Atluri</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>
-	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+    <td>Team Lead</td>
+    <td>Mouni Krishna Atluri</td> 
+    <td>Assemble the team members Strategy Planning, Assigning tasks and monitoring progress of the project.</td>	 
 	  <td>mounikrishnaa@gmail.com</td> 
   </tr>
   <tr>
     <td>Harshith Gudapati</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>
-	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+    <td>UI Developer</td> 
+    <td>Designing user friendly website and maintaining standards while designing</td>
 	  <td>jinnu95@gmail.com</td> 
   </tr>
 </table>
-<br>
- <h3>Schedule:</h3>
- <hr />
- <p>The following scheduled will be implemented.</p>
-<li>Phase 1 completed and presented at the end of week.</li>
-<li>Phase 2 completed and presented at the end of week.</li>
-<li>Phase 3 completed and presented at the end of week.</li>
-<li>Phase 4 finalized and published at the end of week.</li>
-<li>Project reflections and discussions during week.</li>
-<br>
 </div>
+<h4>Signatures: </h4>
+<br>Mouni Krishna Atluri
+<br>Koteswara Harshith Gudapati
+<br>Poojitha Singam
 </body>
 </html>
