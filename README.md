@@ -33,14 +33,10 @@ If there is a non-participating member in the project, we will try to enquire ab
 
 
 #### Roles
-- Team Lead: Poojitha Singam
-- Team Member: Harshith Gudapati 
-- Technology support: Mouni Krishna Atluri and Harshith Gudapati
+- Project Manager: Poojitha Singam
+- UI Developer: Harshith Gudapati 
+- Team Lead: Mouni Krishna Atluri
 
-#### Signature:
 
- - Poojitha Singam
- - Mouni Krishna Atluri
- - Harshith Gudapati
 
             
