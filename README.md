@@ -17,7 +17,7 @@
 Dr. Denise Case(mentor)
 <br>
 #### Team logo:
-![](https://github.com/PoojithaSingam/projectmanagement/blob/master/poo.PNG)
+![](https://github.com/PoojithaSingam/projectmanagement/blob/master/docs/poo.PNG)
 
 #### Link to the Project Charter Page:
 https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
