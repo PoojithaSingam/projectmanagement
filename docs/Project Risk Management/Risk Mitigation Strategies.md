@@ -22,35 +22,35 @@
   <tr>
   <td>R1</td>
   <td>Market Risk</td>
-  <td>By keeping track of all the similar products in the        market.<br>Keep a note on all advancement in technologies so that we can keep up with the present technology.<br>Keep in touch with customers and their consistent demands 
+  <td>1. By keeping track of all the similar products in the        market.<br>2. Keep a note on all advancement in technologies so that we can keep up with the present technology.<br>3. Keep in touch with customers and their consistent demands. 
 </td>
   <td>Program and Project Managers</td>
   </tr>
   <tr>
   <td>R2</td>
   <td>Financial Risk</td>
-  <td>Keeping track of cash flows at the end of each phase.<br>	Reduce unnecessary usage of resources.       
+  <td>1. Keeping track of cash flows at the end of each phase.<br>2. Reduce unnecessary usage of resources.       
 </td>
   <td>Project Managers and Team Lead, Team Members</td>
   </tr>
   <tr>
   <td>R3</td>
   <td>Technical Risk</td>
-  <td>Give importance to team rather than stand alone project structure<br>Improve the problem handling capability<br>Usage of WBS
+  <td>1. Give importance to team rather than stand alone project structure<br>2. Improve the problem handling capability<br>3. Usage of WBS
 </td>
   <td>Project Managers and Team Members</td>
   </tr>
   <tr>
   <td>R4</td>
   <td>People Risk</td>
-  <td>Appreciate employees with rewards to keep them motivated<br>Hire from different areas.
+  <td>1. Appreciate employees with rewards to keep them motivated<br>2. Hire from different areas.
 </td>
   <td>Project Managers</td>
   </tr>
   <tr>
   <td>R5</td>
   <td>Structure/process Risk</td>
-  <td>Increasing the frequency of monitoring<br>Clear WBS structure
+  <td>1. Increasing the frequency of monitoring<br>2. Clear WBS structure
 </td>
   <td>Project Managers</td>
   </tr>
