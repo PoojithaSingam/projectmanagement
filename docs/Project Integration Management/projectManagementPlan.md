@@ -76,7 +76,7 @@
 <td>Work Packages: They are the artifacts that covers all other sub tasks involved in every phase which includes developing code, creating             documents and passing them to delivery team.<br>
 <br>Dependencies: The deadline of next phase depends on when the last phase ended. A delay in one phase affects the other phases.<br>
 <br>Resource Requirements: Every project requires need resources and workspace to work. we use 10 windows machines where 7 for developers and 3        for testers.<br>
-<br>Budget and Resource Allocation: The budget for this is $10,00, 000.The project manager is responsible for dividing the budget among the            team.<br>
+<br>Budget and Resource Allocation: The budget for this is $45,473 The project manager is responsible for dividing the budget among the            team.<br>
 <br>Schedule: This project has been started on 05/13/2019 ends on 01/24/2020.<br>
 </td>
 </tr>
