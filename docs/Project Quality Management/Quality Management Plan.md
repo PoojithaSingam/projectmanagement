@@ -6,8 +6,13 @@ In Quality Management Plan documents the necessary information required to effec
 ### Roles and Responsibilities:
 Name | Role | Quality Responsibility |
 --|--|--|
-Poojitha Singam | Project Manager |
-Koteswara Harshith Gudapati | UI Developer |
-Mouni krishna Atluri | Team Lead |  
+Poojitha Singam | Project Manager | Quality Approver |
+Koteswara Harshith Gudapati | UI Developer | Quality Assurance |
+Mouni krishna Atluri | Team Lead | Quality Co ntroller |
 
 ### Quality Management Plan
+
+What to do | How to do | 
+--|--|
+Identify the overall quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
+  
