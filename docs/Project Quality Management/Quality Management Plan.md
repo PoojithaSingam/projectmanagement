@@ -33,7 +33,7 @@ Following are the metrics used to measure quality:
 10. Fixed Defects Percentage = (Defects Fixed/Total Defects Reported) * 100
 
 
-| S No | Defect Level | Defect Name | Measurements|
+| S.No | Defect Level | Defect Name | Measurements|
 |------|-------|-------|-------|
 | 1 | High-Level Defects | Bugs, Planning errors | Project Manager should have a better than average data of the partners and their abilities|
 | 2 | Mid-level Defects | Integration issues | when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules|                                          
