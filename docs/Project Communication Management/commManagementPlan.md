@@ -92,7 +92,7 @@
   </tr>
 </table>
 </div>
-<h4>8. Glossary of Terms</h4>
+<h4>10. Glossary of Terms</h4>
 <p>Stakeholders are the people that all involved or affected by project activities. Escalation      The process which details how issues and conflicts are passed up the management chain resolution and timeframe to achieve resolution..</p>
 </body>
 </html>
