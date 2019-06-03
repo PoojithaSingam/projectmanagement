@@ -8,8 +8,8 @@
 </head>
 <body>
 <h2>Project Communication Plan</h2>
-<h4>Introduction</h4>
-<p>1. The purpose of a Communication Management Plan is to define who needs to be known and informed about the details of the project, how and how often information will be distributed, and who will be responsible for the distribution and is part of the overall Project Management Plan</p>
+<h4>1. Introduction</h4>
+<p>The purpose of a Communication Management Plan is to define who needs to be known and informed about the details of the project, how and how often information will be distributed, and who will be responsible for the distribution and is part of the overall Project Management Plan</p>
 
 <h4>2. Collection and filing structure for gathering and storing project information</h4>
 <p>All the important information is Collected from interviews, questionnaire and surveys which can be easily secured by storing them in annual filing systems, databases, project management software. </p>
