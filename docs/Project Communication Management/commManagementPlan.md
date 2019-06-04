@@ -9,7 +9,7 @@
 <body>
 <h2>Project Communication Plan</h2>
 <h4>1. Introduction</h4>
-<p>The purpose of a Communication Management Plan is to define who needs to be known and informed about the details of the project, how and how often information will be distributed, and who will be responsible for the distribution and is part of the overall Project Management Plan</p>
+<p>The purpose of a Communication Management Plan is to define who needs to be known and informed about the details of the project, how and how often information will be distributed, and who will be responsible for the distribution and is in part of the overall Project Management Plan</p>
 
 <h4>2. Collection and filing structure for gathering and storing project information</h4>
 <p>All the important information is Collected from interviews, questionnaire and surveys which can be easily secured by storing them in annual filing systems, databases, project management software. </p>
@@ -23,8 +23,8 @@
 <h4>5. Production schedule and resources for producing key project information</h4>
 <p>The Status of the project is shared in the form of Status and progress reports which are given to project Managers and also the stakeholders Status reports tells where the project stands where as progress report lists all the delivered tasks in a certain period of time. We also follow Standard templates for status and progress.</p>
 
-<h4>6. Technologies, access methods, and frequency of communications</h4>
-<p>During this project we used Project Libre and MS project to create Gantt charts, network diagram which helped in finding the critical path. Information is accessed to team members vis google drive SVN. We have Team meeting every 3 days so that we can keep constant update on project.</p>
+<h4>6. Technologies, access methods, and frequency of communications </h4>
+<p>During this project we used Project Libre and MS project to create Gantt charts, network diagram which helped in finding the critical path. Information is accessed to team members via google drive SVN. We have Team meeting every 3 days so that we can keep constant update on project.</p>
 
 <h4>7. Method for updating the communications management plan</h4>
 <p>We update each other’s work by using google tools like google sheet or sheet so that we can see each other work mutually and who are making </p>
