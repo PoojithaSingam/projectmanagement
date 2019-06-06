@@ -102,5 +102,5 @@
 Name| Power/Intrest| Current Engagement| Potential Management Strategies|
 ---| ---| ---|---|
 Poojitha Singam| High/High| Project Manager| Poojitha is very challengable person. Where she accepts any type of challanges and will in contact to team members regarding the project and how work is going on.|
-Mouni Krishna Atluri| High/High| Team Lead| Mouni Krishna is friendly with all the team member in the project. He help Harshit w|
+Mouni Krishna Atluri| High/High| Team Lead| Mouni Krishna is friendly with all the team member in the project. He helps his fellow team members when they stuck in their work and also he will complete his work in timely maner|
 Koteswara Harshit Gudapati|Low/Low|UI Developer|As Harshit is the newly employeed team member in our project. He initially faced some fear or hesitaed to communicate with all the team members. Later on involving into the work he started communicating with all the team members. He is also very consistent about his work.|
