@@ -46,7 +46,7 @@
     <td>H</td>
     <td>June 5</td>
     <td>Closed</td>
-    <td>ELigibility for canditates is given</td> 
+    <td>ELigibility for canditates is given.</td> 
   </tr>
 </table>
 </body>
