@@ -14,46 +14,37 @@
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
-    <th>Role in the project</th> 
-    <th>Department</th>
-	<th>Type of StakeHolder</th>
-	<th>Expectations</th>
-	<th>Contact Info</th>
+    <th>Postition</th> 
+    <th>Internal/External</th>
+	<th>Project Role</th>
+	<th>Contact Information</th>
   </tr>
   <tr>
   <td>Dr.Denise Case</td>
-    <td>Mentor</td> 
-    <td>
-	Applied Computer Science</td>
+    <td>Client</td> 
 	 <td>External</td> 
-	 <td>Provide review comments and suggest improvements</td>
-	  <td>Northwest Missouri State University</td> 
+	 <td>Client</td>
+	  <td>DCASE@nwmissouri.edu</td> 
   </tr>
   <tr>
     <td>Poojitha Singam</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>	 
-	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
+    <td>Project Manager</td> 
+    <td>Internal</td>	 
+	 <td>Project Manager</td> 
 	  <td>poojithasingam@gmail.com</td> 
   </tr>
   <tr>
     <td>Mouni Krishna Atluri</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>
+    <td>Team Lead</td> 
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Team Lead</td>
 	  <td>mounikrishnaa@gmail.com</td> 
   </tr>
   <tr>
     <td>Harshith Gudapati</td>
     <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>UI Developer</td>
 	  <td>jinnu95@gmail.com</td> 
   </tr>
 </table>
