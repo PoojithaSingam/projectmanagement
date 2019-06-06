@@ -1,5 +1,5 @@
 ## Project Cost Management Plan:
-     The total cost of our project is $45,473. 
+     The total cost of our project is $19,465 
 
 #### Estimated Cost and Budget:
 
