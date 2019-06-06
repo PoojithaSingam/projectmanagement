@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Project Communication Plan</h2>
-<h4>1. Introduction</h4>
+<h4>1. Introduction to Communication Management</h4>
 <p>The purpose of a Communication Management Plan is to define who needs to be known and informed about the details of the project, how and how often information will be distributed, and who will be responsible for the distribution and is part of the overall Project Management Plan</p>
 
 <h4>2. Collection and filing structure for gathering and storing project information</h4>
@@ -96,3 +96,11 @@
 <p>Stakeholders are the people that all involved or affected by project activities. Escalation      The process which details how issues and conflicts are passed up the management chain resolution and timeframe to achieve resolution..</p>
 </body>
 </html>
+
+### Stakeholder Analysis:
+
+Name| Power/Intrest| Current Engagement| Potential Management Strategies|
+---| ---| ---|---|
+Poojitha Singam| High/High| Project Manager| |
+Mouni Krishna Atluri| High/High| Team Lead| |
+Koteswara Harshit Gudapati| UI Developer| |
