@@ -23,7 +23,7 @@ Dr. Denise Case(mentor)
 https://github.com/PoojithaSingam/projectmanagement/tree/master/docs
 
 #### Working together as a team:	
-We are looking forward to work as a team. Together as a team we shall motivate each other constantly to do better. As a team shall keep a track of all the activities. If any of the team member has any difficulty to cope up with any task, the other team members will help them. We shall overcome each other’s weaknesses and help the team to grow.
+We are looking forward to work as a team. Together as a team we shall motivate each other constantly to do better. As a team shall keep a track of all the activities. If any of the team member has any difficulty to cope up with any task, the other team members will help them. We shall over come each other’s weaknesses and help the team to grow.
 
 #### Team Meetings: 
 The team meetings will be held time to time at Student Union, Library and Open Lab at Colden Hall and Horizons West. We agreed to meet up on every Tuesday and Thursday from 10:00 to 11:30 AM to discuss about the project progress. 
